@@ -1,0 +1,5 @@
+to clone any project
+
+type
+
+git clone <clone link of any projet>

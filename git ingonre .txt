@@ -1,0 +1,7 @@
+1. there are some key and file which we don't to want to uload on github
+
+2.first make file ".gitignore"
+
+then open it in vs code and put file name with extenstion which u don't want to upload
+
+after commit 

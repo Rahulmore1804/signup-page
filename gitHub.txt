@@ -1,0 +1,7 @@
+1. check that all file are commited or not using "check status"
+
+2. make new repository on guthub and copy ssh link
+
+3. after use " git remote origine <ssh link for>"
+
+4. "git push -u origin master"

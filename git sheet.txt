@@ -1,0 +1,20 @@
+1. first open gitbas
+2.us "cd <file location> " to go at that path
+3.use "touch <filename with extension>" to make new file
+4.to upload changes on git
+
+first
+ 1. start new repository by "git init"
+2."ls -a" to see all file on folder
+3.use  "git status" to see which file are not uploades or not
+4. use "git add . " to upload  all work or "git add  <git add <file name>" on staging area
+
+5. after you satisfied with changes and to save on git your work use "git commit -m <any name which will save as this timeline  >
+
+6. "git log" to see which things you have added over diff timeline
+
+7. "open <file name> " to open file
+
+8. "git diff <file name>" to see differance between two file which one is saved and other is not
+
+9. "git checkout <file name>" to rollback your previous changes 
