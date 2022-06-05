@@ -1,0 +1,24 @@
+if you want work on same project for differance experiment then make two branch of same project. and if experment 
+goes success  we can merge
+
+to make branch 
+"git branch justmakingbranck"
+
+to see all branch " git branch"
+
+to switch branch "git checkout <alredy made branch name>"
+
+to merge branch "git merge <name of branch you want to merge>
+
+all new folders and new text will seperate in branch
+
+we can also do same on github web there is option of branch and commit
+
+
+
+
+
+
+
+
+
